@@ -66,7 +66,7 @@ let Redes2Coin = new  BlockChain('info de genesis','000');
 
 Redes2Coin.addBlock('Valgo 32k');
 Redes2Coin.addBlock('Valgo 64k');
-console.log(Redes2Coin.isValid());
+//console.log(Redes2Coin.isValid());
 //Redes2Coin.chain[1].data ='fake data';
-console.log(Redes2Coin.isValid());
+//console.log(Redes2Coin.isValid());
 //console.log(JSON.stringify(Redes2Coin,null,2)); 
