@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "1.0.1",
+  "description": "Implementacion de un pequeño blockchain",
+  "main": "block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gonza",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
